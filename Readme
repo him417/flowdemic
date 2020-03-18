@@ -1,0 +1,17 @@
+FLOWDEMIC is an open source and open data application, with anonymous users:
+
+- Capture of the daily temperature of the user (either manual or automated thanks to connected thermometers)
+- Thanks to the microphone, detection of the number of coughs, duration of coughing, sneezing
+- Geolocation
+
+Thanks to a large global database, we will be able to visualize the epidemic live and predict the evolution of the epidemic in probabilistic terms.
+
+It is obvious that there will be a lot of stochastic noises, false cases, but what matters is the dynamics.
+
+Combined with secondary data such as aircraft flights, trains, road traffic, several correlations can be made by researchers and by public authorities.
+
+Public Github :
+https://github.com/him417/flowdemic
+
+Public Discord Server :
+https://discord.gg/XfkmtF
